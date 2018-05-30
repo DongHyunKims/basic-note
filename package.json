@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "iconv-lite": "^0.4.23",
+    "node": "^10.2.0"
+  }
+}
